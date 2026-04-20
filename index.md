@@ -2,5 +2,7 @@
 title: Welcome to my blog!
 
 ---
-##say less
-~!@@##money
+body: hello guys 
+
+#safe sex
+## no marriage
